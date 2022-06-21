@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ICvectorfields"]
+	path = ICvectorfields
+	url = https://github.com/goodsman/icvectorfields
+	shallow = true
+	registered = true
